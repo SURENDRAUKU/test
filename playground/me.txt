@@ -1,5 +1,0 @@
-"{{#user}}" 
-"Name: Surendra Kumar" 
-"Skills: AWS, DevOps, Docker, Kubernetes" 
-"Email: surics47@gmail.com" 
-"{{/user}}" 
